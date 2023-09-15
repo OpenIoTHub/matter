@@ -1,6 +1,7 @@
 name: matter
 description: dart matter sdk.
-version: 1.0.0
+version: 1.0.1
+homepage: https://github.com/OpenIoTHub/matter_dart
 # repository: https://github.com/my_org/my_repo
 
 environment:
